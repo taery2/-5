@@ -1,0 +1,10 @@
+{
+  "python": "3.12.14",
+  "system": "Linux",
+  "m": 65521,
+  "n": 40000,
+  "seed": 4,
+  "queries": 4000,
+  "repeats": 3,
+  "comparison_queries": 256
+}
